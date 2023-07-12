@@ -6,7 +6,6 @@ labels: 'bug'
 assignees: ''
 
 ---
-
 **Describe the bug**
 <!-- A clear and concise description of what the bug is. -->
 
@@ -14,9 +13,13 @@ assignees: ''
 <!-- Link to example problem on leetcode where the bug manifests if applicable. If not just put N/A -->
 
 **To Reproduce**
-<!-- Steps / command to reproduce the behavior. Example  `cargo leet gen https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/`-->
-``
+<!-- Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error -->
 
+   
 **Error Message**
 <!-- If applicable please provide a copy of the error received or a screenshot of the error -->
 ```
@@ -27,7 +30,7 @@ assignees: ''
 
 **Environment Info:**
 <!-- Use `cargo version` at command line to get version of cargo. e.g. "cargo 1.70.0 (ec8a8a0ca 2023-04-25)" -->
- - Cargo Version: 
+ - Cargo Version:
 
 **Additional context**
 <!-- Add any other context about the problem here. -->
