@@ -8,20 +8,22 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the bug is. -->
+
+**Leetcode problem**
+<!-- Link to example problem on leetcode where the bug manifests if applicable. If not just put N/A -->
 
 **To Reproduce**
-Steps to reproduce the behavior:
-Command to reporduce the problem
+<!-- Steps / command to reproduce the behavior -->
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- A clear and concise description of what you expected to happen. -->
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- If applicable, add screenshots to help explain your problem. -->
 
 **Environment Info:**
- - Cargo Version: [Use `cargo version` at command line to get version. e.g. cargo 1.70.0 (ec8a8a0ca 2023-04-25)]]
+ - Cargo Version: <!-- [Use `cargo version` at command line to get version. e.g. cargo 1.70.0 (ec8a8a0ca 2023-04-25)] -->
 
 **Additional context**
-Add any other context about the problem here.
+<!-- Add any other context about the problem here. -->
