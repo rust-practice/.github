@@ -19,6 +19,8 @@ assignees: ''
 
 **Error Message**
 <!-- If applicable please provide a copy of the error received or a screenshot of the error -->
+```
+```
 
 **Expected behavior**
 <!-- A clear and concise description of what you expected to happen. Not necessary if error was received. -->
